@@ -6,4 +6,4 @@ class Solution:
                 return True
             else: # if num doesn't exist in hashset then add.
                 hashset.add(num)
-        return False # if it doesn't return True and only adds the items to the hashset.
+        return False # if it doesn't return True and only adds the items to the hashset. ex: [1,2,3,4]
